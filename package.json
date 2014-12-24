@@ -1,0 +1,28 @@
+{
+  "name": "express-devices",
+  "version": "0.0.1",
+  "description": "Detect user device type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boo1ean/express-devices.git"
+  },
+  "keywords": [
+    "iphone",
+    "ipad",
+    "ipod",
+    "device",
+    "express",
+    "user-agent",
+    "android"
+  ],
+  "author": "Egor Gumenyuk <boo1ean0807@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boo1ean/express-devices/issues"
+  },
+  "homepage": "https://github.com/boo1ean/express-devices"
+}
